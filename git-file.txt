@@ -1,1 +1,11 @@
+
+#!/bin/bash
+
 I am addding a new line to the file
+I am alive in Christ
+Can not understand why my arrow buttons are not working on Visual Studio
+Like I said it works well on MobaxTerm and Gitbash. Not sure why its not working on
+Visual Studio.
+I need to investigate the changes I tried in bashfc or bashprofile # hope its well
+
+Ok it works on ssh but not bash visual studio
